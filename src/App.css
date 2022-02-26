@@ -46,9 +46,9 @@
   display: grid;
   height: calc("100vh - 60px") ;
 } */
-.contenedortotal {
+/* .contenedortotal {
   height: calc("100vh - 60px");
-}
+} */
 
 .barralateral {
   display: grid;
