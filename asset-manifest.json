@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/plataforma/static/css/main.5cbfdd08.chunk.css",
+    "main.js": "/plataforma/static/js/main.be2eb069.chunk.js",
+    "main.js.map": "/plataforma/static/js/main.be2eb069.chunk.js.map",
+    "runtime-main.js": "/plataforma/static/js/runtime-main.39be7d72.js",
+    "runtime-main.js.map": "/plataforma/static/js/runtime-main.39be7d72.js.map",
+    "static/css/2.64dd1c6d.chunk.css": "/plataforma/static/css/2.64dd1c6d.chunk.css",
+    "static/js/2.ea82510d.chunk.js": "/plataforma/static/js/2.ea82510d.chunk.js",
+    "static/js/2.ea82510d.chunk.js.map": "/plataforma/static/js/2.ea82510d.chunk.js.map",
+    "static/js/3.616d325f.chunk.js": "/plataforma/static/js/3.616d325f.chunk.js",
+    "static/js/3.616d325f.chunk.js.map": "/plataforma/static/js/3.616d325f.chunk.js.map",
+    "index.html": "/plataforma/index.html",
+    "static/css/2.64dd1c6d.chunk.css.map": "/plataforma/static/css/2.64dd1c6d.chunk.css.map",
+    "static/css/main.5cbfdd08.chunk.css.map": "/plataforma/static/css/main.5cbfdd08.chunk.css.map",
+    "static/js/2.ea82510d.chunk.js.LICENSE.txt": "/plataforma/static/js/2.ea82510d.chunk.js.LICENSE.txt",
+    "static/media/Clima-laboral.6a05d008.png": "/plataforma/static/media/Clima-laboral.6a05d008.png",
+    "static/media/Psicolab.5d2662d5.png": "/plataforma/static/media/Psicolab.5d2662d5.png",
+    "static/media/fondo1.8640a2e1.png": "/plataforma/static/media/fondo1.8640a2e1.png",
+    "static/media/logo.7585ae82.png": "/plataforma/static/media/logo.7585ae82.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39be7d72.js",
+    "static/css/2.64dd1c6d.chunk.css",
+    "static/js/2.ea82510d.chunk.js",
+    "static/css/main.5cbfdd08.chunk.css",
+    "static/js/main.be2eb069.chunk.js"
+  ]
+}
